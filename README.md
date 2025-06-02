@@ -13,22 +13,9 @@ A brief description of your project and its purpose.
 
 ## Installation
 
-Describe how to install and set up your project. For example:
-
-```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-npm install
-```
 
 ## Usage
 
-Provide instructions and examples for using the project. For example:
-
-```bash
-npm start
-```
-Or describe how to run/test the code, including configuration or environment variables if needed.
 
 ## Features
 
